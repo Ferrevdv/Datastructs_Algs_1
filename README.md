@@ -1,1 +1,3 @@
 # Datastructs_Algs_1
+
+A first of two labs completed for the intro to Datastructures & Algorithms course at KU Leuven in which we analyze the complexity of different implementations of the A* algorithm to solve the generalization of the famous 8-puzzle problem. The findings are written down in a concise [report](https://github.com/Ferrevdv/Datastructs_Algs_1/blob/main/report.pdf).
